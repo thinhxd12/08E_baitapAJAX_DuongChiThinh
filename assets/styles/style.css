@@ -1,0 +1,18 @@
+.tblNhanVien{
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+    box-shadow: 0 0.1rem 1rem rgba(0, 0, 0, 0.09);
+}
+
+.tblNhanVien:hover{
+    background-color: #e4e4e4;
+    transition: 0.2s ease-in-out;
+}
+
+.tblNhanVien:visited{
+    background-color: #e4e4e4;
+}
+
+.table td {
+    vertical-align: middle;
+}
